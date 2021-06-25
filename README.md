@@ -28,10 +28,10 @@ Here we present our final paper for the data mining 1 course on the Pima (Diabet
    * Gini gain
    * Entropy gain
 2. Decision trees validation with test and training set
-  * Entropy gain
+   * Entropy gain
 3. Discussion of the best prediction model
-  * KNN
-  * Decision Trees
+   * KNN
+   * Decision Trees
 4. Decision trees interpretation
 ## Summary
 
